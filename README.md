@@ -1,6 +1,9 @@
 # Bo3 Load Version
 
-Simple scripts to quickly switch between different Call of Duty: Black Ops 3 versions using `.bat` files.
+Simple scripts to quickly switch between different Call of Duty: Black Ops 3 versions using `.bat` files. 
+- **Bo3 Steam 19 February 2026 has spoofer, Thank you [Scroptss](https://github.com/Scroptss)!**
+- **All Bo3 MS Enhanced versions, Bo3 Steam 3 march 2023 and Steam 19 February 2026 include T7 patch!**
+
 
 ## Installation
 
@@ -76,10 +79,10 @@ This will also delete the files that are not needed from other game versions.
 
 ## Credits
 
-Idea:
+- **Idea**:
 [Scrappy](https://github.com/Joshr520) For creating the original Load-Version to switch between MS 1.06 and Steam 19 February 2026
-BO3 MS Store:
+- **BO3 MS Store**:
 [Serious](https://github.com/shiversoftdev) and [Emma](https://github.com/InvoxiPlayGames) For creating [Bo3 Enhanced](https://github.com/shiversoftdev/BO3Enhanced) mod.
-T7 Patch:
-[Serious](https://github.com/shiversoftdev) and [Scroptss](https://github.com/shiversoftdev) For making Bo3 safe to play with [T7 patch](https://github.com/Scroptss/T7Patch).
+- **T7 Patch**:
+[Serious](https://github.com/shiversoftdev) and [Scroptss](https://github.com/Scroptss) For making Bo3 safe to play with [T7 patch](https://github.com/Scroptss/T7Patch).
 ```
