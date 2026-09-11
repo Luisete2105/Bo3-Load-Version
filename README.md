@@ -2,8 +2,7 @@
 
 Simple scripts to quickly switch between different Call of Duty: Black Ops 3 versions using `.bat` files. 
 - **Bo3 Steam 19 February 2026 has spoofer, Thank you [Scroptss](https://github.com/Scroptss)!**
-- **All Bo3 MS Enhanced versions, Bo3 Steam 3 march 2023 and Steam 19 February 2026 include T7 patch!**
-
+- **Be careful when switching to T7x version, its not compatible with T7 patch Make sure to load a different version when playing again on Steam**
 
 ## Installation
 
