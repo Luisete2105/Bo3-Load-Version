@@ -8,8 +8,8 @@ Simple scripts to quickly switch between different Call of Duty: Black Ops 3 ver
 
     Click the links below to download the files:
 
-    - [**Download.ps1**](https://github.com/Luisete2105/Bo3-Load-Version/raw/main/Download.ps1)
-    - [**Run-Download.bat**](https://github.com/Luisete2105/Bo3-Load-Version/raw/main/Run-Download.bat)
+    - [**Download.ps1**](https://github.com/Luisete2105/Bo3-Load-Version/releases/download/v1.0/Download.ps1)
+    - [**Run-Download.bat**](https://github.com/Luisete2105/Bo3-Load-Version/releases/download/v1.0/Run-Download.bat)
 
 2. Place both files **inside your Call of Duty: Black Ops 3 game folder**.
 
