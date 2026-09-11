@@ -76,5 +76,10 @@ This will also delete the files that are not needed from other game versions.
 
 ## Credits
 
+Idea:
 [Scrappy](https://github.com/Joshr520) For creating the original Load-Version to switch between MS 1.06 and Steam 19 February 2026
+BO3 MS Store:
+[Serious](https://github.com/shiversoftdev) and [Emma](https://github.com/InvoxiPlayGames) For creating [Bo3 Enhanced](https://github.com/shiversoftdev/BO3Enhanced) mod.
+T7 Patch:
+[Serious](https://github.com/shiversoftdev) and [Scroptss](https://github.com/shiversoftdev) For making Bo3 safe to play with [T7 patch](https://github.com/Scroptss/T7Patch).
 ```
